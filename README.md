@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **games and web design**
 
-- 👨‍💻 All of my projects are available at [https://www.sheamakesgames.com/](https://www.sheamakesgames.com/)
-
 - 📫 How to reach me **shea.mcauley995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
